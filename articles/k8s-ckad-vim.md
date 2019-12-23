@@ -6,8 +6,5 @@
 autocmd FileType yml,yaml setlocal tabstop=2 softtabstop=2 shiftwidth=2 expandtab list listchars=eol:¤,trail:¬
 ```
 
-> **[!TIP]** :bulb:
-> Information the user should notice even if skimming
-
-> **[!WARNING]** :warning:
-> The warning content
+> :bulb:**[!TIP]**
+> When editing files with `.yml` or `.yaml` extensions (`FileType`), the tabulations (`tabstop` and `softtabstop`) as well as shifts (`shiftwidth`) will be automatically (`autocmd`) expanded (`expandtab`) to **`2`** spaces. Moreover, character `¤`(ascii code **207**) will be displayed at end of line (`eol`) and character `¬` (ascii code **170**) will be displayed at trailing spaces (`list` and `listchars`).
