@@ -73,6 +73,7 @@ export -f wk
 ![k8s-ckad-shell-6-1](media/k8s-ckad-shell-6-1.png)
 ![k8s-ckad-shell-6-2](media/k8s-ckad-shell-6-2.png)
 
+---
 
 ## 7. Sample shell kubectl helper functions file
 
