@@ -8,4 +8,4 @@ Repository for sharing helper  scripts and tips for ckad exam preparation.
 
 3. [Configure tmux shell multiplexer for k8s development](articles/k8s-ckad-tmux.md)
 
-4. 
+4. TBD
