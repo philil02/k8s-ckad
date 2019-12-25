@@ -28,7 +28,7 @@ export -f cn
 
 ## 5. Watch a kubectl command
 w() {
-  watch -n 1 -- "bash -c 'source k8s-kc-helper.sh;$1'"
+  watch -n 1 -- "bash -c 'source ./k8s-kc-helper.sh;$1'"
 }
 export -f w
 
